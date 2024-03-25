@@ -5,7 +5,7 @@ sudo npm install -g pm2
 # stop any instances of app runnig ciurrently
 pm2 stop simple_app
 #change directory into folderwhere app is downloaded
-cd SimpleApplication/
+cd MatejSaravanj/SimpleApplication
 #Install applicatio dependencies
 npm install
 echo $PRIVATE_KEY > privatekey.pem
